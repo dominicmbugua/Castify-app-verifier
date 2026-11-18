@@ -1,0 +1,12 @@
+url,expected_name,expected_developer,platform,expected_result
+https://apps.apple.com/us/app/netflix/id363590051,Netflix,Netflix,Apple,Verified
+https://channelstore.roku.com/details/584b0027d3ec8af7e9cd8879433eaa0e:a0dddf10144e792f1731c2c3ec16c8dc/the-roku-channel,The Roku Channel,Roku,Roku,Verified
+https://channelstore.roku.com/details/aaaabbbbccccdddd0000111122223333:ffff0000eeee1111dddd2222cccc3333/fake-app,,,Roku,Broken (fake ID)
+https://www.amazon.com/dp/B005ZXWMUS,Netflix,,Amazon,Verified
+https://www.amazon.com/dp/B00KDSGIPK,Pluto TV,,Amazon,Verified
+https://www.amazon.com/dp/B000000000,,,Amazon,Mismatch (a snack product - not an app)
+https://us.lgappstv.com/main/tvapp/detail?appId=70318,Netflix,Netflix,LG,Verified
+https://us.lgappstv.com/main/tvapp/detail?appId=1273059,IPTV Player - Smart Live TV,STREAMTECH SOLUTIONS LTD,LG,Verified
+https://us.lgappstv.com/main/tvapp/detail?appId=999999999,,,LG,Broken (fake ID)
+https://www.samsung.com/us/tvs/smart-tv/samsung-tv-apps-detail/?appId=3202201026376,Outside TV,Outside,Samsung,Verified
+https://www.samsung.com/us/tvs/smart-tv/samsung-tv-apps-detail/?appId=1111111111111,,,Samsung,Broken (fake ID)
